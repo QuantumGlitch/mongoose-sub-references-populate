@@ -1,0 +1,35 @@
+{
+  "name": "mongoose-sub-references-populate",
+  "version": "1.0.0",
+  "description": "Package useful for populating references to sub documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumGlitch/mongoose-sub-references-populate.git"
+  },
+  "author": "QuantumGlitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantumGlitch/mongoose-sub-references-populate/issues"
+  },
+  "homepage": "https://github.com/QuantumGlitch/mongoose-sub-references-populate#readme",
+  "keywords": [
+    "mongoose",
+    "sub",
+    "document",
+    "subdocument",
+    "reference",
+    "references",
+    "relationship",
+    "relation",
+    "relations",
+    "populate",
+    "populating"
+  ],
+  "dependencies": {
+    "mongoose": "^5.10.7"
+  }
+}
