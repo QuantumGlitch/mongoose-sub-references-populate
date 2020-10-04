@@ -166,7 +166,7 @@ npm run test
 
 # See also
 
-If you want to provide an integrity to your sub references, you could be interested in [sub-references-integrity](https://github.com/QuantumGlitch/mongoose-sub-references-integrity)
+If you want to provide an integrity to your sub references, you could be interested in [sub-references-integrity](https://github.com/QuantumGlitch/mongoose-sub-references-integrity-checker)
 
 # Support
 
