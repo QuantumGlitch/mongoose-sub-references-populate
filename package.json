@@ -30,7 +30,7 @@
     "populating",
     "nested"
   ],
-  "dependencies": {
+  "devDependencies": {
     "mongoose": "^5.10.7"
   }
 }

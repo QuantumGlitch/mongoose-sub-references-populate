@@ -159,7 +159,10 @@ Object --- > Object ---> .... any time you want ---> Array
 # Test
 
 You can try the tests using the following command ( before you need to change the connection to MongoDB ) :
-`npm run test`
+```shell
+npm install --test
+npm run test
+```
 
 # See also
 
