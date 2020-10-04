@@ -1,6 +1,6 @@
 {
   "name": "mongoose-sub-references-populate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package useful for populating references to sub documents",
   "main": "index.js",
   "scripts": {
