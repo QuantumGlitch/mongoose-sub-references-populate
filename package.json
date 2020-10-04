@@ -27,7 +27,8 @@
     "relation",
     "relations",
     "populate",
-    "populating"
+    "populating",
+    "nested"
   ],
   "dependencies": {
     "mongoose": "^5.10.7"
