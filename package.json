@@ -30,6 +30,9 @@
     "populating",
     "nested"
   ],
+  "peerDependencies": {
+    "mongoose": "^5.10.7"
+  },
   "devDependencies": {
     "mongoose": "^5.10.7"
   }
